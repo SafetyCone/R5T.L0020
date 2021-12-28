@@ -1,0 +1,3 @@
+R5T.L0020.Construction - Construction project for MSTest.TestFramework Nuget package selector..
+
+GOALS:
